@@ -1,10 +1,8 @@
-### Hi there 👋, I'm Dan
-
 #### I'm a Kotlin enthusiast and aspiring mountaineer
 
 ![I'm a Kotlin enthusiast and aspiring mountaineer](/images/banner.jpg)
 
-When I'm not outdoors exploring the beautiful Canadian Rockies, I like to build ideas with Kotlin.
+I like to build ideas with Kotlin when I'm not exploring the beautiful Canadian Rockies.
 
 #### My open-source projects:
 
