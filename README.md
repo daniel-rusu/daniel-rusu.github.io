@@ -8,7 +8,7 @@ I like to build ideas with Kotlin when I'm not exploring the beautiful Canadian 
 
 * [Performance-oriented data structures for Kotlin](https://github.com/daniel-rusu/pods4k) which achieves performance and efficiency that might appear impossible at first glance.
 
-#### Popular articles that I wrote:
+#### My articles:
 
 * [Kotlin: A massive leap forward](https://proandroiddev.com/kotlin-a-massive-leap-forward-78251531f616)
 * [Kotlin avoids entire categories of Java defects](https://proandroiddev.com/kotlin-avoids-entire-categories-of-java-defects-89f160ba4671)
