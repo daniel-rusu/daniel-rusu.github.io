@@ -6,7 +6,7 @@ I like to build ideas with Kotlin when I'm not exploring the beautiful Canadian 
 
 #### My open-source projects:
 
-* [Performance-oriented data structures for Kotlin](https://github.com/daniel-rusu/pods4k) which achieves performance and efficiency that might appear impossible at first glance.
+* [pods4k](https://github.com/daniel-rusu/pods4k) - A collection of performance-oriented data structures for Kotlin achieving performance and efficiency that might appear impossible at first glance.
 
 #### My articles:
 
